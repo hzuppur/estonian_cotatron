@@ -1,0 +1,8 @@
+inflect
+librosa
+matplotlib
+omegaconf
+unidecode
+torch==1.4.0
+pytorch-lightning==0.7.1
+pyyaml
